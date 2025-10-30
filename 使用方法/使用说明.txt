@@ -1,4 +1,0 @@
-1、driver下载地址：https://developer.microsoft.com/zh-cn/microsoft-edge/tools/webdriver/?form=MA13LH（仅适用于edge浏览器）
-2、使用代码需要先下载库，如何下载，请上B站搜教程
-3、使用和修改代码需要特定的编译器，视频中所使用的是pycharm，需要激活，B站上有教程，另一个编码器叫VScode，免费开源，教程也可以在B站上找
-4、视频一定要看完整！！！
